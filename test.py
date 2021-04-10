@@ -26,7 +26,7 @@ Junk Text
                                         JNKTXT                                                Junk Text
              Junk Text Junk Text                                                                  Junk Text
                                   JNKTXT            JNKTXT                          Junk Text
-                                                                Junk Text
+                             JNKTXT                                   Junk Text
             JNKTEXT                                            Junk Text
                                                 Junk Text
                                         Junk Text
